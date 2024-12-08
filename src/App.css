@@ -1,0 +1,10 @@
+.app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border: 0;
+    .box{
+        padding: 1%;
+    }
+}
